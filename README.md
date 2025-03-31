@@ -1,9 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-
-<br />
-<br />
-<br />
+[logo]()
 
 
 
